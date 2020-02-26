@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
+title: 欢迎来到奇幻世界
+subtitle: '这是你歇脚的地方'
 description: ''
 keywords:
-author: John Doe
-language: en
+author: 会打架的鱼
+language: zh-CN
 timezone: ''
 
 # URL
@@ -93,7 +93,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
